@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![My Skills](https://skillicons.dev/icons?i=vue,react,nodejs,astro,vite,nextjs,tailwind&theme=dark)](https://skillicons.dev)
 
 <!--
 **SasySaa/SasySaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
