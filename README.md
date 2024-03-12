@@ -1,6 +1,6 @@
 <div align="center">
   <a target="_blank" href="https://portfolio-salvatore-taddeo.vercel.app/">
-    <h1>Come to my portfolio/CV</h1>
+    Come to my portfolio/CV
   </a>
 </div>
 
