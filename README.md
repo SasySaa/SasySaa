@@ -1,8 +1,8 @@
 ### Hi there 👋
 [![My Skills](https://skillicons.dev/icons?i=vue,react,nodejs,astro,vite,nextjs,tailwind&theme=dark)](https://skillicons.dev)
 <p align="center">
-  <a target="_blank" href="[https://skillicons.dev](https://portfolio-salvatore-taddeo.vercel.app/)">
-    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=vue,react,nodejs,astro,vite,nextjs,tailwind&theme=dark)" />
+  <a target="_blank" href="https://portfolio-salvatore-taddeo.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vue,react,nodejs,astro,vite,nextjs,tailwind&theme=dark" />
   </a>
 </p>
 <!--
