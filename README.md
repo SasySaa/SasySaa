@@ -11,7 +11,7 @@
 </p>
 <div align="center">
   
-# 💻 Tech Stack:
+# 💻 Full Portfolio/CV:
 
 </div>
 <div align="center">
