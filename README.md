@@ -7,7 +7,7 @@
 <div align="center">
   
 # 💻 Full Portfolio/CV:
- <a target="_blank" href="https://portfolio-salvatore-taddeo.vercel.app/" style="font-size:14px">
+ <a target="_blank" href="https://portfolio-salvatore-taddeo.vercel.app/" style="font-size:24px">
     ➡️ Here ⬅️
   </a>
   
