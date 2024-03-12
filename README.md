@@ -1,4 +1,9 @@
-### Hi there 👋
+<p align="center">
+  <a target="_blank" href="https://portfolio-salvatore-taddeo.vercel.app/">
+    <h1>Come to my portfolio/CV</h1>
+  </a>
+</p>
+
 <p align="center">
   <a target="_blank" href="https://portfolio-salvatore-taddeo.vercel.app/">
     <img src="https://skillicons.dev/icons?i=vue,react,nodejs,astro,vite,nextjs,tailwind&theme=dark" />
